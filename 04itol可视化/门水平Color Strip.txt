@@ -1,0 +1,96 @@
+DATASET_COLORSTRIP
+SEPARATOR TAB
+DATASET_LABEL	itol_3al_3_strip
+COLOR	#ff0000
+LEGEND_TITLE	Phylum
+LEGEND_POSITION_X	100
+LEGEND_POSITION_Y	100
+LEGEND_HORIZONTAL	1
+LEGEND_SHAPES	1	1	1	1	1	1	1	1	1	1	1
+LEGEND_COLORS	#EAD3BF	#446455	#F5CDB4	#F4B5BD	#CB7A5C	#B40F20	#EF5703	#E54E21	#9986A5	#E1AF00	#90D4CC
+LEGEND_LABELS	Arthropoda	Ascomycota	Basidiomycota	Kathablepharidae	Mucoromycota	norank_d__Eukaryota	norank_k__Chloroplastida	norank_k__Cryptophyceae	others	SAR_d__Eukaryota	unclassified_d__Eukaryota
+SHOW_INTERNAL	0
+MARGIN	50
+BORDER_WIDTH	1
+BORDER_COLOR	#000
+STRIP_WIDTH	25
+COLOR_BRANCHES	1
+DATA
+Bin39	#9986A5	others
+Bin40	#EAD3BF	Arthropoda
+Bin41	#90D4CC	unclassified_d__Eukaryota
+Bin42	#90D4CC	unclassified_d__Eukaryota
+Bin43	#9986A5	others
+Bin56	#9986A5	others
+Bin54	#9986A5	others
+Bin55	#90D4CC	unclassified_d__Eukaryota
+Bin57	#F5CDB4	Basidiomycota
+Bin65	#F5CDB4	Basidiomycota
+Bin66	#F5CDB4	Basidiomycota
+Bin67	#F5CDB4	Basidiomycota
+Bin4	#90D4CC	unclassified_d__Eukaryota
+Bin7	#E1AF00	SAR_d__Eukaryota
+Bin8	#E1AF00	SAR_d__Eukaryota
+Bin9	#E1AF00	SAR_d__Eukaryota
+Bin10	#E1AF00	SAR_d__Eukaryota
+Bin11	#E1AF00	SAR_d__Eukaryota
+Bin13	#E1AF00	SAR_d__Eukaryota
+Bin12	#E1AF00	SAR_d__Eukaryota
+Bin14	#E1AF00	SAR_d__Eukaryota
+Bin15	#E1AF00	SAR_d__Eukaryota
+Bin16	#E1AF00	SAR_d__Eukaryota
+Bin17	#E1AF00	SAR_d__Eukaryota
+Bin18	#E1AF00	SAR_d__Eukaryota
+Bin19	#E1AF00	SAR_d__Eukaryota
+Bin20	#E1AF00	SAR_d__Eukaryota
+Bin21	#E1AF00	SAR_d__Eukaryota
+Bin22	#E1AF00	SAR_d__Eukaryota
+Bin23	#E1AF00	SAR_d__Eukaryota
+Bin25	#90D4CC	unclassified_d__Eukaryota
+Bin24	#E1AF00	SAR_d__Eukaryota
+Bin26	#B40F20	norank_d__Eukaryota
+Bin27	#E1AF00	SAR_d__Eukaryota
+Bin28	#E1AF00	SAR_d__Eukaryota
+Bin29	#9986A5	others
+Bin30	#E1AF00	SAR_d__Eukaryota
+Bin1	#9986A5	others
+Bin2	#E1AF00	SAR_d__Eukaryota
+Bin3	#E1AF00	SAR_d__Eukaryota
+Bin5	#90D4CC	unclassified_d__Eukaryota
+Bin6	#E1AF00	SAR_d__Eukaryota
+Bin32	#EF5703	norank_k__Chloroplastida
+Bin31	#EF5703	norank_k__Chloroplastida
+Bin33	#EF5703	norank_k__Chloroplastida
+Bin34	#E1AF00	SAR_d__Eukaryota
+Bin35	#E54E21	norank_k__Cryptophyceae
+Bin36	#E1AF00	SAR_d__Eukaryota
+Bin37	#E54E21	norank_k__Cryptophyceae
+Bin38	#F4B5BD	Kathablepharidae
+Bin71	#E1AF00	SAR_d__Eukaryota
+Bin72	#E1AF00	SAR_d__Eukaryota
+Bin73	#E1AF00	SAR_d__Eukaryota
+Bin74	#90D4CC	unclassified_d__Eukaryota
+Bin75	#E1AF00	SAR_d__Eukaryota
+Bin76	#90D4CC	unclassified_d__Eukaryota
+Bin77	#9986A5	others
+Bin78	#E1AF00	SAR_d__Eukaryota
+Bin68	#B40F20	norank_d__Eukaryota
+Bin69	#E1AF00	SAR_d__Eukaryota
+Bin70	#90D4CC	unclassified_d__Eukaryota
+Bin58	#90D4CC	unclassified_d__Eukaryota
+Bin59	#446455	Ascomycota
+Bin60	#90D4CC	unclassified_d__Eukaryota
+Bin61	#9986A5	others
+Bin63	#90D4CC	unclassified_d__Eukaryota
+Bin64	#9986A5	others
+Bin62	#CB7A5C	Mucoromycota
+Bin49	#9986A5	others
+Bin50	#90D4CC	unclassified_d__Eukaryota
+Bin51	#9986A5	others
+Bin52	#9986A5	others
+Bin53	#9986A5	others
+Bin48	#EF5703	norank_k__Chloroplastida
+Bin44	#9986A5	others
+Bin45	#446455	Ascomycota
+Bin46	#446455	Ascomycota
+Bin47	#446455	Ascomycota
